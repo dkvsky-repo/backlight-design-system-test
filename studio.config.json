@@ -1,0 +1,29 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "colors",
+     "typography",
+     "00-base",
+     "01-colors",
+     "02-typography",
+     "base",
+     "typography"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    []
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "layout"
+    ]
+   ]
+  ]
+ }
+}

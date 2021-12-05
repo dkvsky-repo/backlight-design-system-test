@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/backlight-design-system-test.blank-kwrzm7y0",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve x2zf3D4a72eiXHnBybVJ --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@mdx-js/react": "*",
+    "@divriots/dockit-react": "*"
+  }
+}
